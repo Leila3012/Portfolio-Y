@@ -1,4 +1,4 @@
-# Portfolio-Y
+# yandex_practicum
 
 Здесь собраны реализованные проекты
 
